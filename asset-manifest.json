@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Infinite-Scroll-using-NPM/static/css/main.0520410c.css",
+    "main.js": "/Infinite-Scroll-using-NPM/static/js/main.baf8f715.js",
+    "index.html": "/Infinite-Scroll-using-NPM/index.html",
+    "main.0520410c.css.map": "/Infinite-Scroll-using-NPM/static/css/main.0520410c.css.map",
+    "main.baf8f715.js.map": "/Infinite-Scroll-using-NPM/static/js/main.baf8f715.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0520410c.css",
+    "static/js/main.baf8f715.js"
+  ]
+}
