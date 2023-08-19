@@ -1,4 +1,4 @@
-# Getting Started with Create React App command 
+# Getting Started with Create React App command in your terminal 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
